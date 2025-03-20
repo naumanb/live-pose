@@ -163,3 +163,4 @@ cython_debug/
 
 
 FoundationPose/weights
+FoundationPose/mask.png
